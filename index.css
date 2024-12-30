@@ -1,0 +1,31 @@
+.spl{
+    margin: auto;
+    width: 50%;
+   
+}
+.container{
+    margin: auto;
+    width: 50%;
+    display: flexbox;
+   
+    
+  
+    
+}
+#btn1,#btn2,#btn3{
+    background-color: yellow;
+    border: 2px solid darkgoldenrod;
+    margin-top: 20px;
+    margin-right:1 0px;
+    color: blue;
+    font-size: larger;
+
+}
+.total{
+    height: 300px;
+    
+    background-color: green;
+    margin: auto;
+    width: 300px;
+    color: white;
+}
